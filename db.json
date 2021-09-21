@@ -1,30 +1,31 @@
 {
   "data": {
-    "achievement_id": 47,
+    "achievement_id": 9,
     "achievement_type": "achievement",
-    "achievement_image": "https://nyc3.digitaloceanspaces.com/practiqa-media/media/2021/09/03/cube-2.png",
-    "navigation_title": "",
+    "achievement_image": "https://nyc3.digitaloceanspaces.com/practiqa-media/media/tick.svg",
+    "navigation_title": "YOU'VE UNLOCKED A NEW EVENT",
     "position_image": "center",
     "share_image": "",
-    "achievement_title": "You’ve finished our experiment, but don’t stop experimenting yourself",
-    "achievement_text": "It’s important to check how difficult doing the habit is and connect this with the spent time.\r\nThe easier it is - the higher chances to build the long-term habit.",
+    "achievement_title": "Good job!",
+    "achievement_text": "You've done daily reading for the first time!",
     "achievement_colors": [
-      "#84F4E6",
-      "#C9AFFF"
+      "#D4FC79",
+      "#DBEC6E"
     ],
     "achievement_colors_position": [
-      5,
-      143
+      0,
+      100
     ],
     "achievement_vector": 180,
-    "button_id": 32,
-    "button_text": "Cool! I got it",
+    "button_id": 2,
+    "button_text": "Yes! I&#39;m cool",
     "position_button": "bottom",
-    "button_endpoint": "/user/action/3",
+    "button_endpoint": "/user/action/2",
     "button_url": "",
     "button_id_script": null,
     "button_colors": null,
     "button_colors_position": null,
     "button_vector": null
-  }
+  },
+  "tail_achievement_data": null
 }
